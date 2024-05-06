@@ -1,0 +1,59 @@
+{"intents": [
+
+
+      {
+        "tag": "age",
+        "patterns": ["How old are you?", "how old?", "age", "what is your age?"],
+        "responses": ["I was created in May of 2024", "I am less than one year old"]
+      },
+
+
+      {"tag": "giving_compliments",
+      "patterns": [ "you're great", "you're amazing", "you're awesome", "well done"],
+      "responses": ["Thank you!", "That means a lot.", "I appreciate your kind words."]},
+  
+      {"tag": "goodbye",
+    "patterns": ["goodbye", "bye", "see you later", "take care", "farewell"],
+    "responses": ["Goodbye!", "See you later!", "Take care!"]},
+
+    {"tag": "greetings",
+    "patterns": ["hello", "hey", "hi", "good day", "greetings", "wants up", "how is it going?"],
+    "responses": ["Hello", "Hey", "What can I do for you?"]},
+
+
+    {
+        "tag": "jokes",
+        "patterns": ["Tell me a joke", "Do you know any jokes?", "Share a funny joke"],
+        "responses": ["Why couldn't the bicycle stand up by itself? It was two-tired!", "What do you get when you cross a snowman and a vampire? Frostbite!", "Why don't skeletons fight each other? They don't have the guts!"]
+      },
+
+
+      {
+        "tag": "name",
+        "patterns": ["what is your name", "who are you", "what should I call you", " are you alive?"],
+        "responses": ["You can call me Chatty", "I am Chatty", "I am a chat box named Chatty!"]
+      },  
+
+
+    {
+      "tag": "suggesting_alternatives",
+      "patterns": ["Is there another option?", "Can you suggest something different?", "Any alternatives?"],
+      "responses": ["Let me provide you with some alternatives.", "Certainly, here are some other options.", "I can suggest a few different choices."]
+    },
+
+
+
+    {"tag": "thanking",
+    "patterns": ["thank you", "thanks a lot", "much appreciated", "thanks for your help"],
+    "responses": ["You're welcome!", "Glad I could help!", "Anytime!"]}
+
+
+
+
+
+
+
+
+
+
+]}
