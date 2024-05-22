@@ -2,7 +2,7 @@
 
 ## Description
 
-Engineered an interactive conversational AI chatbox using nlp techniques. Designed and trained a deep leaning model 
+Engineered an interactive conversational AI chatbox using nlp techniques from scratch. Designed and trained a deep leaning model 
 
 with LSTM architecture for intent classificiation. Trained the model to recoginize and interpret user input, enabling 
 
