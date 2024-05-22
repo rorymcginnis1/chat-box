@@ -1,10 +1,10 @@
-# Minature Chat Box
+# Miniature Chat Box
 
 ## Description
 
-Engineered an interactive conversational AI chatbox using nlp techniques from scratch. Designed and trained a deep leaning model 
+Engineered an interactive conversational AI chatbox using NLP techniques from scratch. Designed and trained a deep learning model 
 
-with LSTM architecture for intent classificiation. Trained the model to recoginize and interpret user input, enabling 
+with LSTM architecture for intent classification. Trained the model to recoginize and interpret user input, enabling 
 
 the chatbot to understand and respond appropriately.
 
@@ -14,11 +14,11 @@ the chatbot to understand and respond appropriately.
 
 ## Run instructions
 
-Must have tensor flow numpy and keras installed.
+Must have TensorFlow numpy and keras installed.
 
 Download and run the training.py file. It may take a minute or two to train the data but then will allow you to interact 
 
-with the minature ChatBox. 
+with the miniature ChatBox. 
 
 More data can be added to the response.json file to increase the variety of responses.
 
@@ -26,7 +26,7 @@ Depending on your machine it may not be able to be ran, if it is not able to be 
 
 can run it. Simply copy the code and paste it in colab and upload the response.json file.
 
-# Video demo of ChatBox using google collab
+# Video demo of ChatBox using google Colab
 
 
 
