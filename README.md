@@ -8,16 +8,17 @@ with LSTM architecture for intent classificiation. Trained the model to recogini
 
 the chatbot to understand and respond appropriately.
 
-## Requirements
-
-Must have tensor flow numpy and keras installed
 
 ## Tools and Frameworks
 (Python, TensorFlow, Keras, NumPy, JSON)
 
 ## Run instructions
 
-Simply run the training.py file. It may take a minute or two to train the data but then will allow you to interact with the minature ChatBox. 
+Must have tensor flow numpy and keras installed.
+
+Download and run the training.py file. It may take a minute or two to train the data but then will allow you to interact 
+
+with the minature ChatBox. 
 
 More data can be added to the response.json file to increase the variety of responses.
 
