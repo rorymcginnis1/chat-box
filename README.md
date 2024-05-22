@@ -15,6 +15,10 @@ Simply run the training.py file. It may take a minute or two to train the data b
 
 More data can be added to the response.json file to increase the variety of responses.
 
+Depending on your machine it may not be able to be ran, if it is not able to be ran [Google colab](https://colab.research.google.com) 
+
+can run it. Simply copy the code and paste it in colab and upload the response.json file.
+
 # Video demo of ChatBox using google collab
 
 
