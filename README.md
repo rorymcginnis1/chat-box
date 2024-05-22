@@ -12,6 +12,9 @@ the chatbot to understand and respond appropriately.
 
 Must have tensor flow numpy and keras installed
 
+## Tools and Frameworks
+(Python, TensorFlow, Keras, NumPy, JSON)
+
 ## Run instructions
 
 Simply run the training.py file. It may take a minute or two to train the data but then will allow you to interact with the minature ChatBox. 
