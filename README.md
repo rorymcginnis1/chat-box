@@ -1,6 +1,15 @@
 # Minature Chat Box
 
+## Description
+
+Engineered an interactive conversational AI chatbox using nlp techniques. Designed and trained a deep leaning model 
+with LSTM architecture for intent classificiation. Trained the model to recoginize and interpret user input, enabling the chatbot to understand and respond appropriately.
+
+## Requirements
+
 Must have tensor flow numpy and keras installed
+
+## Run instructions
 
 Simply run the training.py file. It may take a minute or two to train the data but then will allow you to interact with the minature ChatBox. 
 
